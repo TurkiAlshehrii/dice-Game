@@ -1,7 +1,7 @@
 #Hey!
 
 
-i have built this amazing website game
+i have built this amazing game
 
 --------------
 i use in this project:
